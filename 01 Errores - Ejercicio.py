@@ -7,4 +7,4 @@ print("")
 
 print(-El Bromas.)
 
-qrint('2019.')
+print  ('2019.')
